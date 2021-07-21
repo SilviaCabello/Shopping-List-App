@@ -10,6 +10,8 @@ What's not on your fridge?
   
   As a user, I want to delete the items from the shopping list.
   
+  As a user, I want to see all the items from my list.
+  
 
 # Future implementations
 
@@ -22,4 +24,5 @@ What's not on your fridge?
 
 
 # Database
-<img width="290" alt="Captura de pantalla 2021-07-21 a las 10 59 34" src="https://user-images.githubusercontent.com/78726341/126461662-b633bcca-830a-4d67-8626-99e15e323f46.png">
+<img width="292" alt="Captura de pantalla 2021-07-21 a las 11 10 46" src="https://user-images.githubusercontent.com/78726341/126463366-925cb576-604c-40e1-93c7-2e4eb192a2d3.png">
+
