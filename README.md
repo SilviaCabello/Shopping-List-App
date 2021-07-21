@@ -2,7 +2,7 @@
 
 What's not on your fridge?
 
-User stories:
+# User stories:
 
   As a user, I want to add items to the shopping list.
   
@@ -11,7 +11,7 @@ User stories:
   As a user, I want to delete the items from the shopping list.
   
 
-Future implementations:
+# Future implementations:
 
   Organize a weekly menu.
   
