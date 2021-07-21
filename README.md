@@ -1,4 +1,3 @@
-<img width="287" alt="Captura de pantalla 2021-07-21 a las 10 58 57" src="https://user-images.githubusercontent.com/78726341/126461593-99dc19d5-7dcd-4e77-8f8f-b0fe29226c10.png">
 # Shopping-List-App
 
 What's not on your fridge?
