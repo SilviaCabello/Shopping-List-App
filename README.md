@@ -26,3 +26,8 @@ What's not on your fridge?
 # Database
 <img width="292" alt="Captura de pantalla 2021-07-21 a las 11 10 46" src="https://user-images.githubusercontent.com/78726341/126463366-925cb576-604c-40e1-93c7-2e4eb192a2d3.png">
 
+<img width="540" alt="Captura de pantalla 2021-07-21 a las 11 27 24" src="https://user-images.githubusercontent.com/78726341/126465964-f40e05d1-8463-4544-b070-31e9edaeb1ea.png">
+
+<img width="268" alt="Captura de pantalla 2021-07-21 a las 11 27 42" src="https://user-images.githubusercontent.com/78726341/126466008-ef076d15-d36b-43c5-9bf0-e2b9a315c782.png">
+
+
